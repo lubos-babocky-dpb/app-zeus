@@ -60,12 +60,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/andrej-horny/tmp-pkg-task-ms.git",
-                "reference": "4a85ddad3e30430d3d0539f25850202d1f9f64e7"
+                "reference": "2ee0006b9a72d07a99ae328a91d2ed8ba06eac4d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/andrej-horny/tmp-pkg-task-ms/zipball/4a85ddad3e30430d3d0539f25850202d1f9f64e7",
-                "reference": "4a85ddad3e30430d3d0539f25850202d1f9f64e7",
+                "url": "https://api.github.com/repos/andrej-horny/tmp-pkg-task-ms/zipball/2ee0006b9a72d07a99ae328a91d2ed8ba06eac4d",
+                "reference": "2ee0006b9a72d07a99ae328a91d2ed8ba06eac4d",
                 "shasum": ""
             },
             "require": {
@@ -105,7 +105,7 @@
                 "source": "https://github.com/andrej-horny/tmp-pkg-task-ms/tree/main",
                 "issues": "https://github.com/andrej-horny/tmp-pkg-task-ms/issues"
             },
-            "time": "2025-12-16T17:47:22+00:00"
+            "time": "2025-12-17T17:47:34+00:00"
         },
         {
             "name": "andrej-horny/tmp-pkg-task-ms-ui",
@@ -113,12 +113,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/andrej-horny/tmp-pkg-task-ms-ui.git",
-                "reference": "3090e703b4cbae07e6a868401617a2a99c241ea6"
+                "reference": "fc150a23202fd8a6e7bdda1fd2b89056a5e91201"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/andrej-horny/tmp-pkg-task-ms-ui/zipball/3090e703b4cbae07e6a868401617a2a99c241ea6",
-                "reference": "3090e703b4cbae07e6a868401617a2a99c241ea6",
+                "url": "https://api.github.com/repos/andrej-horny/tmp-pkg-task-ms-ui/zipball/fc150a23202fd8a6e7bdda1fd2b89056a5e91201",
+                "reference": "fc150a23202fd8a6e7bdda1fd2b89056a5e91201",
                 "shasum": ""
             },
             "require": {
@@ -154,7 +154,7 @@
                 "source": "https://github.com/andrej-horny/tmp-pkg-task-ms-ui/tree/main",
                 "issues": "https://github.com/andrej-horny/tmp-pkg-task-ms-ui/issues"
             },
-            "time": "2025-12-16T17:29:11+00:00"
+            "time": "2025-12-17T17:51:45+00:00"
         },
         {
             "name": "anourvalar/eloquent-serialize",
